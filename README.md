@@ -1,4 +1,5 @@
 # sql-challenge
+Grading rubric
 Before submitting your Challenge assignment, make sure that you’ve done the following:
 
 Create an image file of your ERD.
